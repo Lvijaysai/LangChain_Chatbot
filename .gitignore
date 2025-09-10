@@ -73,3 +73,6 @@ __pycache__/
 *.ini
 desktop.ini
 .env
+
+# Environment variables file
+.venv
